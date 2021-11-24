@@ -3,7 +3,7 @@ Remote laboratory for part-time students
 
 Setup:
 ========================
-1. Raspberry Pi 3
+1. Raspberry Pi 3 Model B V1.2
 <br/>
 
 ![imgonline-com-ua-Resize-gcN5r98PlHYRQx](https://user-images.githubusercontent.com/54200672/143193909-590d21fa-2e2b-4539-bffc-e66dda568cae.jpg)
