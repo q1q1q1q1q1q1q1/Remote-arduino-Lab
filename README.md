@@ -21,7 +21,7 @@ Setup:
 ![imgonline-com-ua-Resize-cAAe6OjqyiBVKtM3](https://user-images.githubusercontent.com/54200672/143193942-3d0131d7-172f-4b80-9931-2367f14692dd.jpg)
 
 
-global requirements
+Global requirements
 -------------------------
 Python=3.9.5 or less
 
